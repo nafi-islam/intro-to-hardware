@@ -38,6 +38,10 @@ Use 3 LEDs to represent when there is an object in front of the left and right m
 This diagram explains what a LED (light emitting diode) is and how to interpret the physical component. 
 </p>
 
+<p align="center">
+  <img src="./images/DiodeDiagram.png" alt="Diode Diagram" />
+   This diagram explains what a LED (light emitting diode) is and how to interpret the physical component. 
+</p>
 ---
 
 ## Materials
