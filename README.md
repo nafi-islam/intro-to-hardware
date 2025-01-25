@@ -2,7 +2,7 @@
 
 ## Goal
 
-![Alt text](./images/BlindspotDiagram.jpeg)
+![Blindspot Diagram](./images/BlindspotDiagram.jpeg)
 
 Use 3 LEDs to represent when there is an object in front of the left and right mirrors of a car. Additionally, use the third LED to represent when there is an object at the rear. Optionally, you can implement a photoresistor to trigger an LED to demonstrate automatic headlights.
 
@@ -36,6 +36,9 @@ Use 3 LEDs to represent when there is an object in front of the left and right m
 ---
 
 ## Materials
+
+![Materials](./images/Materials.png)
+
 - **Arduino Uno R3** (1)
 - **Infrared Sensors** (3)
 - **Photoresistor** (Optional, 1)
@@ -48,6 +51,14 @@ Use 3 LEDs to represent when there is an object in front of the left and right m
 
 ---
 
+---
+
+## Schematic
+
+![Complete Schematic](./images/Complete Circuit.png)
+
+---
+
 ## How to Reproduce
 1. **Wire the Circuit**:
    - Follow the schematic provided (ensure proper connections for sensors, LEDs, and resistors).
@@ -57,6 +68,10 @@ Use 3 LEDs to represent when there is an object in front of the left and right m
    - Ensure the correct **board** (Arduino Uno) and **COM port** are selected in the Arduino IDE.
 4. **Upload the Code**:
    - Write and upload the Arduino sketch for functionality.
+  
+If all goes well, then it should look a little something like this!
+
+![Demo](./images/Demo.gif)
 
 ---
 
