@@ -32,6 +32,11 @@ Use 3 LEDs to represent when there is an object in front of the left and right m
    - Learn how photoresistors can be used to detect ambient light levels.
 8. **LED Brightness Control** (Optional):
    - Using **Pulse Width Modulation (PWM)** to dim LEDs programmatically.
+  
+![Diode Diagram](./images/DiodeDiagram.png)
+<p align="center">
+This diagram explains what a LED (light emitting diode) is and how to interpret the physical component. 
+</p>
 
 ---
 
@@ -69,9 +74,9 @@ Use 3 LEDs to represent when there is an object in front of the left and right m
 4. **Upload the Code**:
    - Write and upload the Arduino sketch for functionality.
   
+![Demo](./images/Demo.gif)
 
 <p align="center">
-![Demo](./images/Demo.gif)
 If all goes well, then it should look a little something like this!
 </p>
 
