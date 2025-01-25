@@ -34,14 +34,13 @@ Use 3 LEDs to represent when there is an object in front of the left and right m
    - Using **Pulse Width Modulation (PWM)** to dim LEDs programmatically.
   
 <p align="center">
-![Diode Diagram](./images/DiodeDiagram.png)
-This diagram explains what a LED (light emitting diode) is and how to interpret the physical component. 
+  <img src="./images/DiodeDiagram.png" alt="Diode Diagram" />
 </p>
 
 <p align="center">
-  <img src="./images/DiodeDiagram.png" alt="Diode Diagram" />
-   This diagram explains what a LED (light emitting diode) is and how to interpret the physical component. 
+This diagram explains what a LED (light emitting diode) is and how to interpret the physical component. 
 </p>
+
 ---
 
 ## Materials
@@ -75,8 +74,11 @@ This diagram explains what a LED (light emitting diode) is and how to interpret 
    - Ensure the correct **board** (Arduino Uno) and **COM port** are selected in the Arduino IDE.
 4. **Upload the Code**:
    - Write and upload the Arduino sketch for functionality.
-  
-![Demo](./images/Demo.gif)
+
+
+<p align="center">
+  <img src="./images/Demo.gif" alt="Demo" />
+</p>
 
 <p align="center">
 If all goes well, then it should look a little something like this!
