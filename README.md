@@ -1,6 +1,9 @@
 # Intro to Hardware Workshop
 
 ## Goal
+
+![Alt text](./images/BlindspotDiagram.jpeg)
+
 Use 3 LEDs to represent when there is an object in front of the left and right mirrors of a car. Additionally, use the third LED to represent when there is an object at the rear. Optionally, you can implement a photoresistor to trigger an LED to demonstrate automatic headlights.
 
 ---
