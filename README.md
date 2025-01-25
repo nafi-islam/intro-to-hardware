@@ -33,8 +33,8 @@ Use 3 LEDs to represent when there is an object in front of the left and right m
 8. **LED Brightness Control** (Optional):
    - Using **Pulse Width Modulation (PWM)** to dim LEDs programmatically.
   
-![Diode Diagram](./images/DiodeDiagram.png)
 <p align="center">
+![Diode Diagram](./images/DiodeDiagram.png)
 This diagram explains what a LED (light emitting diode) is and how to interpret the physical component. 
 </p>
 
@@ -53,8 +53,6 @@ This diagram explains what a LED (light emitting diode) is and how to interpret 
 - **Breadboard**
 - **Screwdriver** (Optional)
 - **Multimeter** (Optional)
-
----
 
 ---
 
