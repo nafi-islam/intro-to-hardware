@@ -55,7 +55,7 @@ Use 3 LEDs to represent when there is an object in front of the left and right m
 
 ## Schematic
 
-![Complete Schematic](./images/Complete Circuit.png)
+![Schematic](./images/Schematic.png)
 
 ---
 
@@ -69,9 +69,11 @@ Use 3 LEDs to represent when there is an object in front of the left and right m
 4. **Upload the Code**:
    - Write and upload the Arduino sketch for functionality.
   
-If all goes well, then it should look a little something like this!
 
+<p align="center">
 ![Demo](./images/Demo.gif)
+If all goes well, then it should look a little something like this!
+</p>
 
 ---
 
